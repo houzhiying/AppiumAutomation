@@ -1,0 +1,151 @@
+2015-04-21 16:42:07 [ Time-limited test:0 ] - [ INFO ] 第1查找元素Don’t Allow
+2015-04-27 09:56:55 [ Time-limited test:0 ] - [ INFO ] 第1查找元素Don’t Allow
+2015-04-27 10:13:16 [ Time-limited test:0 ] - [ INFO ] 第1查找元素Don’t Allow
+2015-04-27 10:13:24 [ Time-limited test:7622 ] - [ INFO ] 第1查找元素我的账户
+2015-04-27 10:14:28 [ Time-limited test:0 ] - [ INFO ] 第1查找元素我的账户
+2015-04-27 10:14:31 [ Time-limited test:2947 ] - [ INFO ] 第1查找元素//UIAWindow[1]/UIATextField[1]/UIATextField[1]
+2015-04-27 10:24:01 [ Time-limited test:0 ] - [ INFO ] 第1查找元素Don’t Allow
+2015-04-27 10:24:09 [ Time-limited test:7607 ] - [ INFO ] 第1查找元素我的账户
+2015-04-27 10:25:27 [ Time-limited test:0 ] - [ INFO ] 第1查找元素Don’t Allow
+2015-04-27 10:25:35 [ Time-limited test:7985 ] - [ INFO ] 第1查找元素我的账户
+2015-04-27 10:25:38 [ Time-limited test:10433 ] - [ INFO ] 第1查找元素//UIAWindow[1]/UIATextField[1]/UIATextField[1]
+2015-04-27 10:35:34 [ Time-limited test:0 ] - [ INFO ] 第1查找元素Don’t Allow
+2015-04-27 10:35:42 [ Time-limited test:8006 ] - [ INFO ] 第1查找元素我的账户
+2015-04-27 10:35:44 [ Time-limited test:10692 ] - [ INFO ] 第1查找元素//UIAWindow[1]/UIATextField[1]/UIATextField[1]
+2015-04-27 10:39:27 [ Time-limited test:0 ] - [ INFO ] 第1查找元素Don’t Allow
+2015-04-27 10:39:35 [ Time-limited test:8001 ] - [ INFO ] 第1查找元素我的账户
+2015-04-27 10:40:48 [ Time-limited test:0 ] - [ INFO ] 第1查找元素Don’t Allow
+2015-04-27 10:40:56 [ Time-limited test:7974 ] - [ INFO ] 第1查找元素我的账户
+2015-04-27 10:40:59 [ Time-limited test:10450 ] - [ INFO ] 第1查找元素//UIAApplication[1]/UIAWindow[1]/UIATextField[1]/UIATextField[1]
+2015-04-27 10:58:37 [ Time-limited test:0 ] - [ INFO ] 第1查找元素Don’t Allow
+2015-04-27 10:58:45 [ Time-limited test:7978 ] - [ INFO ] 第1查找元素我的账户
+2015-04-27 10:58:47 [ Time-limited test:10590 ] - [ INFO ] 第1查找元素//UIAWindow[1]/UIATextField[1]/UIATextField[1]
+2015-04-27 11:00:52 [ Time-limited test:0 ] - [ INFO ] 第1查找元素Don’t Allow
+2015-04-27 11:01:00 [ Time-limited test:8021 ] - [ INFO ] 第1查找元素我的账户
+2015-04-27 11:01:03 [ Time-limited test:10476 ] - [ INFO ] 第1查找元素登录
+2015-04-27 11:03:24 [ Time-limited test:0 ] - [ INFO ] 第1查找元素Don’t Allow
+2015-04-27 11:03:32 [ Time-limited test:7988 ] - [ INFO ] 第1查找元素我的账户
+2015-04-27 11:03:35 [ Time-limited test:10474 ] - [ INFO ] 第1查找元素登录
+2015-04-27 12:34:43 [ Time-limited test:0 ] - [ INFO ] 第1查找元素Don’t Allow
+2015-04-27 12:34:52 [ Time-limited test:8240 ] - [ INFO ] 第1查找元素我的账户
+2015-04-27 12:34:54 [ Time-limited test:10710 ] - [ INFO ] 第1查找元素登录
+2015-04-27 12:39:41 [ Time-limited test:0 ] - [ INFO ] 第1查找元素Don’t Allow
+2015-04-27 12:39:49 [ Time-limited test:8025 ] - [ INFO ] 第1查找元素我的账户
+2015-04-27 12:39:51 [ Time-limited test:10520 ] - [ INFO ] 第1查找元素登录
+2015-04-29 10:56:08 [ Time-limited test:0 ] - [ INFO ] 第1查找元素我的账户
+2015-04-29 10:56:11 [ Time-limited test:2591 ] - [ INFO ] 第1查找元素登录
+2015-04-29 10:56:13 [ Time-limited test:4904 ] - [ INFO ] 第1查找元素//UIAWindow[1]/UIATextField[1]
+2015-04-29 15:24:06 [ Time-limited test:0 ] - [ INFO ] 第1查找元素我的账户
+2015-04-29 15:24:12 [ Time-limited test:5581 ] - [ INFO ] 第1查找元素//UIAApplication[1]/UIAWindow[1]/UIANavigationBar[1]/UIAStaticText[1]
+2015-04-29 15:24:56 [ Time-limited test:0 ] - [ INFO ] 第1查找元素我的账户
+2015-04-29 15:25:02 [ Time-limited test:5568 ] - [ INFO ] 第1查找元素//UIAWindow[1]/UIANavigationBar[1]/UIAStaticText[1]
+2015-04-29 15:25:23 [ Time-limited test:0 ] - [ INFO ] 第1查找元素我的账户
+2015-04-29 15:25:29 [ Time-limited test:5543 ] - [ INFO ] 第1查找元素//UIAWindow[1]/UIANavigationBar[1]/UIAStaticText[1]
+2015-04-29 15:25:29 [ Time-limited test:6150 ] - [ INFO ] 第1查找元素//UIAWindow[1]/UIATextField[1]
+2015-04-29 15:33:58 [ Time-limited test:0 ] - [ INFO ] 第1查找元素我的账户
+2015-04-29 15:34:04 [ Time-limited test:5546 ] - [ INFO ] 第1查找元素//UIAWindow[1]/UIANavigationBar[1]/UIAStaticText[1]
+2015-04-29 15:34:12 [ Time-limited test:14203 ] - [ INFO ] 第1查找元素//UIAWindow[1]/UIATextField[1]
+2015-04-29 15:35:32 [ Time-limited test:0 ] - [ INFO ] 第1查找元素我的账户
+2015-04-29 15:35:38 [ Time-limited test:5509 ] - [ INFO ] 第1查找元素//UIAWindow[1]/UIANavigationBar[1]/UIAStaticText[1]
+2015-04-29 15:35:39 [ Time-limited test:6098 ] - [ INFO ] 第1查找元素//UIAWindow[1]/UIATextField[1]
+2015-04-29 15:37:16 [ Time-limited test:0 ] - [ INFO ] 第1查找元素我的账户
+2015-04-29 15:37:22 [ Time-limited test:5484 ] - [ INFO ] 第1查找元素//UIAWindow[1]/UIANavigationBar[1]/UIAStaticText[1]
+2015-04-29 15:37:23 [ Time-limited test:6193 ] - [ INFO ] 第1查找元素//UIAWindow[1]/UIATextField[1]
+2015-04-29 15:39:56 [ Time-limited test:0 ] - [ INFO ] 第1查找元素我的账户
+2015-04-29 15:40:02 [ Time-limited test:5559 ] - [ INFO ] 第1查找元素//UIAWindow[1]/UIANavigationBar[1]/UIAStaticText[1]
+2015-04-29 15:40:02 [ Time-limited test:6115 ] - [ INFO ] 第1查找元素//UIAWindow[1]/UIATextField[1]
+2015-04-29 15:50:20 [ Time-limited test:0 ] - [ INFO ] 第1查找元素我的账户
+2015-04-29 15:50:25 [ Time-limited test:5642 ] - [ INFO ] 第1查找元素//UIAWindow[1]/UIANavigationBar[1]/UIAStaticText[1]
+2015-04-29 15:50:26 [ Time-limited test:6239 ] - [ INFO ] 第1查找元素//UIAWindow[1]/UIANavigationBar[1]/UIAStaticText[1]
+2015-04-29 15:50:47 [ Time-limited test:0 ] - [ INFO ] 第1查找元素我的账户
+2015-04-29 15:50:52 [ Time-limited test:5555 ] - [ INFO ] 第1查找元素//UIAWindow[1]/UIANavigationBar[1]/UIAStaticText[1]
+2015-04-29 15:50:53 [ Time-limited test:6143 ] - [ INFO ] 第1查找元素//UIAWindow[1]/UIATextField[1]
+2015-04-29 15:56:44 [ Time-limited test:0 ] - [ INFO ] 第1查找元素我的账户
+2015-04-29 15:56:46 [ Time-limited test:2505 ] - [ INFO ] 第1查找元素//UIAWindow[1]/UIANavigationBar[1]/UIAStaticText[1]
+2015-04-29 15:57:11 [ Time-limited test:0 ] - [ INFO ] 第1查找元素我的账户
+2015-04-29 15:57:16 [ Time-limited test:5616 ] - [ INFO ] 第1查找元素//UIAWindow[1]/UIANavigationBar[1]/UIAStaticText[1]
+2015-04-29 15:57:17 [ Time-limited test:6276 ] - [ INFO ] 第1查找元素//UIAWindow[1]/UIATextField[1]
+2015-04-29 15:57:51 [ Time-limited test:0 ] - [ INFO ] 第1查找元素我的账户
+2015-04-29 15:57:57 [ Time-limited test:5570 ] - [ INFO ] 第1查找元素//UIAWindow[1]/UIANavigationBar[1]/UIAStaticText[1]
+2015-04-29 15:57:57 [ Time-limited test:6226 ] - [ INFO ] 第1查找元素//UIAWindow[1]/UIATextField[1]
+2015-04-29 16:02:56 [ Time-limited test:0 ] - [ INFO ] 第1查找元素我的账户
+2015-04-29 16:03:01 [ Time-limited test:5524 ] - [ INFO ] 第1查找元素//UIAWindow[1]/UIANavigationBar[1]/UIAStaticText[1]
+2015-04-29 16:03:02 [ Time-limited test:6195 ] - [ INFO ] 第1查找元素//UIAWindow[1]/UIATextField[1]
+2015-04-29 17:56:52 [ Time-limited test:0 ] - [ INFO ] 第1查找元素我的账户
+2015-04-29 17:56:57 [ Time-limited test:5561 ] - [ INFO ] 第1查找元素//UIAWindow[1]/UIASecureTextField[1]
+2015-05-04 12:22:52 [ Time-limited test:0 ] - [ INFO ] 第1查找元素我的账户
+2015-05-04 12:22:58 [ Time-limited test:5533 ] - [ INFO ] 第1查找元素//UIAWindow[1]/UIATextField[1]
+2015-05-04 12:23:49 [ Time-limited test:0 ] - [ INFO ] 第1查找元素我的账户
+2015-05-04 12:25:19 [ Time-limited test:0 ] - [ INFO ] 第1查找元素Don’t Allow
+2015-05-04 12:25:27 [ Time-limited test:8222 ] - [ INFO ] 第1查找元素我的账户
+2015-05-04 12:25:33 [ Time-limited test:13706 ] - [ INFO ] 第1查找元素//UIAWindow[1]/UIATextField[1]
+2015-05-04 12:25:40 [ Time-limited test:21125 ] - [ INFO ] 第1查找元素//UIAWindow[1]/UIASecureTextField[1]
+2015-05-04 12:25:49 [ Time-limited test:30127 ] - [ INFO ] 第1查找元素登录
+2015-05-04 12:25:52 [ Time-limited test:32889 ] - [ INFO ] 第1查找元素//UIAWindow[1]/UIANavigationBar[1]/UIAStaticText[1]
+2015-05-04 12:33:42 [ Time-limited test:0 ] - [ INFO ] 第1查找元素Don’t Allow
+2015-05-04 12:34:03 [ Time-limited test:0 ] - [ INFO ] 第1查找元素Don’t Allow
+2015-05-04 12:34:27 [ Time-limited test:0 ] - [ INFO ] 第1查找元素我的账户
+2015-05-04 12:34:32 [ Time-limited test:5578 ] - [ INFO ] 第1查找元素//UIAWindow[1]/UIATextField[1]
+2015-05-04 12:34:40 [ Time-limited test:12947 ] - [ INFO ] 第1查找元素//UIAWindow[1]/UIASecureTextField[1]
+2015-05-04 12:34:49 [ Time-limited test:22011 ] - [ INFO ] 第1查找元素登录
+2015-05-04 12:34:52 [ Time-limited test:24730 ] - [ INFO ] 第1查找元素//UIAWindow[1]/UIANavigationBar[1]/UIAStaticText[1]
+2015-05-04 12:59:28 [ Time-limited test:0 ] - [ INFO ] 第1查找元素我的账户
+2015-05-04 12:59:34 [ Time-limited test:5681 ] - [ INFO ] 第1查找元素//UIAWindow[1]/UIATextField[1]
+2015-05-04 12:59:41 [ Time-limited test:12913 ] - [ INFO ] 第1查找元素//UIAWindow[1]/UIASecureTextField[1]
+2015-05-04 12:59:55 [ Time-limited test:26794 ] - [ INFO ] 第1查找元素登录
+2015-05-04 12:59:58 [ Time-limited test:29589 ] - [ INFO ] 第1查找元素//UIAWindow[1]/UIANavigationBar[1]/UIAStaticText[1]
+2015-05-04 13:00:52 [ Time-limited test:0 ] - [ INFO ] 第1查找元素我的账户
+2015-05-04 13:00:57 [ Time-limited test:5525 ] - [ INFO ] 第1查找元素//UIAWindow[1]/UIANavigationBar[1]/UIAStaticText[1]
+2015-05-04 13:00:58 [ Time-limited test:6218 ] - [ INFO ] 第1查找元素//UIAWindow[1]/UIATextField[1]
+2015-05-04 13:01:05 [ Time-limited test:13561 ] - [ INFO ] 第1查找元素//UIAWindow[1]/UIASecureTextField[1]
+2015-05-04 13:01:19 [ Time-limited test:27442 ] - [ INFO ] 第1查找元素登录
+2015-05-05 18:20:45 [ Time-limited test:0 ] - [ INFO ] 第1查找元素Don’t Allow
+2015-05-05 18:20:54 [ Time-limited test:8510 ] - [ INFO ] 第1查找元素我的账户
+2015-05-05 18:20:59 [ Time-limited test:14034 ] - [ INFO ] 第1查找元素//UIAWindow[1]/UIANavigationBar[1]/UIAStaticText[1]
+2015-05-05 18:21:00 [ Time-limited test:14755 ] - [ INFO ] 第1查找元素//UIAWindow[1]/UIATextField[1]
+2015-05-05 18:21:07 [ Time-limited test:22190 ] - [ INFO ] 第1查找元素//UIAWindow[1]/UIASecureTextField[1]
+2015-05-05 18:21:21 [ Time-limited test:36066 ] - [ INFO ] 第1查找元素登录
+2015-05-05 18:21:24 [ Time-limited test:38806 ] - [ INFO ] 第1查找元素我的账户
+2015-05-05 18:23:28 [ Time-limited test:0 ] - [ INFO ] 第1查找元素Don’t Allow
+2015-05-05 18:24:13 [ Time-limited test:0 ] - [ INFO ] 第1查找元素Don’t Allow
+2015-05-05 18:24:21 [ Time-limited test:8069 ] - [ INFO ] 第1查找元素我的账户
+2015-05-05 18:24:27 [ Time-limited test:13545 ] - [ INFO ] 第1查找元素//UIAWindow[1]/UIANavigationBar[1]/UIAStaticText[1]
+2015-05-05 18:24:27 [ Time-limited test:14177 ] - [ INFO ] 第1查找元素//UIAWindow[1]/UIATextField[1]
+2015-05-05 18:24:34 [ Time-limited test:21409 ] - [ INFO ] 第1查找元素//UIAWindow[1]/UIASecureTextField[1]
+2015-05-05 18:24:48 [ Time-limited test:35399 ] - [ INFO ] 第1查找元素//UIAApplication[1]/UIAWindow[1]/UIAButton[1]
+2015-05-05 18:24:49 [ Time-limited test:36297 ] - [ INFO ] 第1查找元素我的账户
+2015-05-05 18:26:12 [ Time-limited test:0 ] - [ INFO ] 第1查找元素Don’t Allow
+2015-05-05 18:26:20 [ Time-limited test:8047 ] - [ INFO ] 第1查找元素我的账户
+2015-05-05 18:26:26 [ Time-limited test:13680 ] - [ INFO ] 第1查找元素//UIAWindow[1]/UIANavigationBar[1]/UIAStaticText[1]
+2015-05-05 18:26:26 [ Time-limited test:14305 ] - [ INFO ] 第1查找元素//UIAWindow[1]/UIATextField[1]
+2015-05-05 18:26:34 [ Time-limited test:21505 ] - [ INFO ] 第1查找元素//UIAWindow[1]/UIASecureTextField[1]
+2015-05-05 18:26:47 [ Time-limited test:35386 ] - [ INFO ] 第1查找元素//UIAApplication[1]/UIAWindow[1]/UIAButton[1]
+2015-05-05 18:26:51 [ Time-limited test:39248 ] - [ INFO ] 第1查找元素我的账户
+2015-05-05 18:31:31 [ Time-limited test:0 ] - [ INFO ] 第1查找元素Don’t Allow
+2015-05-05 18:35:05 [ Time-limited test:0 ] - [ INFO ] 第1查找元素我的账户
+2015-05-05 18:35:19 [ Time-limited test:0 ] - [ INFO ] 第1查找元素我的账户
+2015-05-05 18:35:24 [ Time-limited test:5473 ] - [ INFO ] 第1查找元素//UIAWindow[1]/UIANavigationBar[1]/UIAStaticText[1]
+2015-05-05 18:35:25 [ Time-limited test:6139 ] - [ INFO ] 第1查找元素//UIAWindow[1]/UIATextField[1]
+2015-05-05 18:35:32 [ Time-limited test:13352 ] - [ INFO ] 第1查找元素//UIAWindow[1]/UIASecureTextField[1]
+2015-05-05 18:35:46 [ Time-limited test:27213 ] - [ INFO ] 第1查找元素//UIAApplication[1]/UIAWindow[1]/UIAButton[1]
+2015-05-05 18:35:50 [ Time-limited test:31128 ] - [ INFO ] 第1查找元素我的账户
+2015-05-05 18:39:57 [ Time-limited test:0 ] - [ INFO ] 第1查找元素Don’t Allow
+2015-05-05 18:40:05 [ Time-limited test:8204 ] - [ INFO ] 第1查找元素我的账户
+2015-05-05 18:40:11 [ Time-limited test:13766 ] - [ INFO ] 第1查找元素//UIAWindow[1]/UIANavigationBar[1]/UIAStaticText[1]
+2015-05-05 18:40:12 [ Time-limited test:14713 ] - [ INFO ] 第1查找元素//UIAWindow[1]/UIATextField[1]
+2015-05-05 18:40:19 [ Time-limited test:22298 ] - [ INFO ] 第1查找元素//UIAWindow[1]/UIASecureTextField[1]
+2015-05-05 18:40:33 [ Time-limited test:36236 ] - [ INFO ] 第1查找元素//UIAApplication[1]/UIAWindow[1]/UIAButton[1]
+2015-05-05 18:40:37 [ Time-limited test:40087 ] - [ INFO ] 第1查找元素//UIAApplication[1]/UIAWindow[1]/UIANavigationBar[1]/UIAStaticText[1]
+2015-05-05 18:40:38 [ Time-limited test:40873 ] - [ INFO ] 第1查找元素//UIAApplication[1]/UIAWindow[1]/UIANavigationBar[1]/UIAStaticText[1]
+2015-05-05 18:40:39 [ Time-limited test:41630 ] - [ INFO ] 第1查找元素//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIAStaticText[1]
+2015-05-05 18:43:30 [ Time-limited test:0 ] - [ INFO ] 第1查找元素Don’t Allow
+2015-05-05 18:43:46 [ Time-limited test:0 ] - [ INFO ] 第1查找元素Don’t Allow
+2015-05-05 19:02:19 [ Time-limited test:0 ] - [ INFO ] 第1查找元素Don’t Allow
+2015-05-20 15:45:31 [ Time-limited test:0 ] - [ INFO ] 第1查找元素Don’t Allow
+2015-05-20 15:53:52 [ Time-limited test:0 ] - [ INFO ] 第1查找元素Don’t Allow
+2015-05-20 15:54:04 [ Time-limited test:11647 ] - [ INFO ] 第1查找元素我的账户
+2015-05-20 15:54:11 [ Time-limited test:18907 ] - [ INFO ] 第1查找元素//UIAWindow[1]/UIANavigationBar[1]/UIAStaticText[1]
+2015-05-20 15:54:15 [ Time-limited test:23063 ] - [ INFO ] 第1查找元素//UIAWindow[1]/UIATextField[1]
+2015-05-20 15:54:27 [ Time-limited test:34676 ] - [ INFO ] 第1查找元素//UIAWindow[1]/UIASecureTextField[1]
+2015-05-20 15:54:45 [ Time-limited test:53070 ] - [ INFO ] 第1查找元素//UIAApplication[1]/UIAWindow[1]/UIAButton[1]
+2015-05-20 15:54:53 [ Time-limited test:60455 ] - [ INFO ] 第1查找元素//UIAApplication[1]/UIAWindow[1]/UIANavigationBar[1]/UIAStaticText[1]
