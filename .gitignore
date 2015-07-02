@@ -6,4 +6,4 @@ AppiumAutoTest.iws
 build.gradle
 build/
 .classpath
-.settings/org.eclipse.j
+.settings/
