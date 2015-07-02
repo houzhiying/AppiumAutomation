@@ -78,7 +78,7 @@ public class BasePageIphoneImpl implements BasePageImpl{
 			} while (elements.size() == 0 && i >= 0);
 			
 			if(elements.size() == 0){
-				logger.info("没有查找到" + id + "的元素");
+				logger.info("没有查找到" + id + "的元素"); 
 			}
 			return elements;
 		} catch (Exception e) {
@@ -531,10 +531,7 @@ public class BasePageIphoneImpl implements BasePageImpl{
 		TouchAction ta = new TouchAction(myDriver);
 		ta.longPress(x, y, duration);
 	}
-	
-	                                                                                                                                                                                                                                                                                                                     
-	
-	
+		                                                                                                                                                                                                                                                                                                                     
 	/**
 	 * 获取屏幕坐标
 	 * @return 
@@ -652,20 +649,6 @@ public class BasePageIphoneImpl implements BasePageImpl{
 		scrollObject.put("direction", "up");	
 		this.executeJs("mobile: scroll", scrollObject);
 	}
-
-	public void click_js(double x,double y){
-		HashMap<String, Double> tapObject = new HashMap<String, Double>();
-		tapObject.put("tapCount",1.0);
-		tapObject.put("touchCount", 1.0);
-		tapObject.put("duration", 0.5);
-		tapObject.put("x", x); 
-		tapObject.put("y", y);
-		this.executeJs("mobile: tap", tapObject);
-		
-	}
-	
-	
-	
 	
 	public boolean isLogin() throws Exception {
 		WebElement title = this.findElementByXpath("//UIAWindow[1]/UIANavigationBar[1]/UIAStaticText[1]");

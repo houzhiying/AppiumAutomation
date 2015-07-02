@@ -65,7 +65,7 @@ public class AccountPageIphoneImpl extends BasePageIphoneImpl implements Account
 	 */
 	
 	public AccountSafetyPage clickAccountInfo() {
-		this.click_js(182.0, 89.0);
+		this.tab(182, 89);
 		return new AccountSafetyPage(myDriver);
 	}
 

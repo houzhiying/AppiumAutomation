@@ -11,6 +11,7 @@ import sun.misc.Cleaner;
 import io.appium.java_client.AppiumDriver;
 import io.appium.java_client.MobileElement;
 
+import com.lufax.test.uia.helper.CommonConstant;
 import com.lufax.test.uia.helper.iphone.IOSUIElement;
 import com.lufax.test.uia.objectmodel.impl.implInterface.LoginPageImpl;
 import com.lufax.test.uia.objectmodel.testcasemodel.AccountPage;

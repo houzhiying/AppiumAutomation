@@ -28,9 +28,9 @@ public class LoadingPageIphoneImpl extends BasePageIphoneImpl implements Loading
 		MobileElement elment = (MobileElement) this.findElementByName("Don’t Allow");
 		click(elment);
 		TimeUnit.MILLISECONDS.sleep(CommonConstant.SHORT_WAIT);
-		this.click_js(250.0, 250.0);
+		this.tab(250, 250);
 		TimeUnit.MILLISECONDS.sleep(CommonConstant.SHORT_WAIT);
-		this.click_js(250.0, 250.0);
+		this.tab(250, 250);
 		return new HomePage(myDriver);
 	}
 

@@ -1,1 +1,9 @@
 /target/
+.gradle/
+AppiumAutoTest.iml
+AppiumAutoTest.ipr
+AppiumAutoTest.iws
+build.gradle
+build/
+.classpath
+.settings/org.eclipse.j
