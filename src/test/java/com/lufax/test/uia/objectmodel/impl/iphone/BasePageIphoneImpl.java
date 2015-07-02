@@ -4,14 +4,18 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
 
+import org.apache.commons.lang3.exception.ExceptionUtils;
 import org.apache.log4j.Logger;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
 
 import io.appium.java_client.AppiumDriver;
 import io.appium.java_client.MobileBy;
 import io.appium.java_client.MobileElement;
+import io.appium.java_client.TouchAction;
 import io.appium.java_client.ios.IOSDriver;
 import io.appium.java_client.ios.IOSElement;
 
@@ -26,6 +30,32 @@ public class BasePageIphoneImpl implements BasePageImpl{
 	
 	public BasePageIphoneImpl( AppiumDriver driver){
 		this.myDriver = driver;
+	}
+	
+	/**
+	 * 判断元素是否存在
+	 */
+	public boolean isElementExist(By by) {
+		try {
+			myDriver.findElement(by);
+			return true;
+		} catch (Exception e) {
+			e.printStackTrace();
+			return false;
+		}
+	}
+	
+	/**
+	 * 在指定时间内判断元素是否存在
+	 */
+	public boolean isElementExist(By by,int timeout) {
+		try {
+			new WebDriverWait(myDriver, timeout).until(ExpectedConditions.presenceOfAllElementsLocatedBy(by));
+			return true;
+		} catch (Exception e) {
+			e.printStackTrace();
+			return false;
+		}
 	}
 	
 	/**
@@ -462,7 +492,122 @@ public class BasePageIphoneImpl implements BasePageImpl{
 	 * @param str
 	 */
 	public void sendKeys(WebElement element,String str){
+		element.clear();
 		element.sendKeys(str);
+	}
+	
+	/**
+	 * 根据元素点击屏幕
+	 * @param element
+	 */
+	public void tab(WebElement element) {
+		TouchAction ta = new TouchAction(myDriver);
+		ta.tap(element);
+	}
+	
+	/**
+	 * 根据坐标点击屏幕
+	 * @param x,y
+	 */
+	public void tab(int x,int y) {
+		TouchAction ta = new TouchAction(myDriver);
+		ta.tap(x, y);
+	}
+	
+	/**
+	 * 根据元素长按屏幕
+	 * @param element
+	 */
+	public void longPress(WebElement element,int duration) {
+		TouchAction ta = new TouchAction(myDriver);
+		ta.longPress(element,duration).release().perform();
+	}
+	
+	/**
+	 * 根据坐标长按屏幕
+	 * @param x,y
+	 */
+	public void longPress(int x,int y,int duration) {
+		TouchAction ta = new TouchAction(myDriver);
+		ta.longPress(x, y, duration);
+	}
+	
+	                                                                                                                                                                                                                                                                                                                     
+	
+	
+	/**
+	 * 获取屏幕坐标
+	 * @return 
+	 */
+	public int[] appScreen(){
+		int width = myDriver.manage().window().getSize().getWidth();
+		int height = myDriver.manage().window().getSize().getHeight();
+		int[] screenWidthAndHeight = {width,height};
+		return screenWidthAndHeight;
+	}
+	
+	/**
+	 * 向上滑动
+	 * x轴不变，y轴从大到小
+	 */
+	public void swipeToUp(int duration) {
+		int starty = this.appScreen()[1]*4/5;
+		int endy = this.appScreen()[1]*1/5;
+		int x = this.appScreen()[0]*1/2;
+		myDriver.swipe(x, starty, x, endy, duration);
+	}
+	
+	/**
+	 * 向下滑动
+	 * x轴不变，y轴从小到大
+	 */
+	public void swipeToDown(int duration) {
+		int starty = this.appScreen()[1]*1/5;
+		int endy = this.appScreen()[1]*4/5;
+		int x = this.appScreen()[0]*1/2;
+		myDriver.swipe(x, starty, x, endy, duration);
+	}
+	
+	/**
+	 * 向右滑动
+	 * y轴不变，x轴从小到大
+	 */
+	public void swipeToRight(int duration) {
+		int startx = this.appScreen()[0]*1/5;
+		int endx = this.appScreen()[0]*4/5;
+		int y = this.appScreen()[1]*1/2;
+		myDriver.swipe(startx, y, endx, y, duration);
+	}
+	
+	/**
+	 * 向左滑动
+	 * y轴不变，x轴从大到小
+	 */
+	public void swipeToLeft(int duration) {
+		int startx = this.appScreen()[0]*4/5;
+		int endx = this.appScreen()[0]*1/5;
+		int y = this.appScreen()[1]*1/2;
+		myDriver.swipe(startx, y, endx, y, duration);
+	}
+	
+	/**
+	 * 传入参数实现方向滑动
+	 */
+	public void swipe(String direction,int duration) {
+		switch(direction) {
+		case "UP":
+			this.swipeToUp(duration);
+			break;
+		case "DOWN":
+			this.swipeToDown(duration);
+			break;
+		case "RIGHT":
+			this.swipeToRight(duration);
+			break;
+		case "LEFT":
+			this.swipeToLeft(duration);
+			break;
+		}
 	}
 	
 	/**

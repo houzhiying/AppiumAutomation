@@ -13,5 +13,9 @@ public class CommonConstant {
 	
 	public static final String LUFAX_ACCOUNT_NAME_2 = "test-002";
 	public static final String LUFAX_ACCOUNT_PWD_2 = "mima123";
+	
+	public enum Direction{
+		UP,DOWN,RIGHT,LEF
+	}
 
 }
